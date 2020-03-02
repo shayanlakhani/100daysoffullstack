@@ -18,3 +18,6 @@
 
 ## Day 3
 1. **Task 1**: create a portfolio site for solution anywhere company. 
+
+## Day 4
+1. **Task**: [Basic css styles](https://priceless-dijkstra-9b1214.netlify.com/)
